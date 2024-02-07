@@ -1,0 +1,10 @@
+.OneGallery:hover .overlay_Gallery {
+  opacity: 1;
+}
+
+.OneGallery .overlay_Gallery {
+  background-color: #1abc9ce6;
+  opacity: 0;
+  cursor: pointer;
+  transition: 0.6s opacity;
+}

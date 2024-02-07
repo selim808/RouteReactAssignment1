@@ -1,0 +1,27 @@
+.contact {
+  color: #2c3e50;
+}
+
+.line {
+  height: 4px;
+  width: 80px;
+  background-color: #2c3e50;
+}
+
+.contact label {
+  color: #1abc9c;
+  margin-bottom: 7px;
+  transition: 0.6s top;
+}
+
+.__top {
+  top: 40px !important;
+}
+
+.sendBtn {
+  background-color: #1abc9c !important;
+}
+
+.contact input:focus {
+  box-shadow: 0 0 0 0;
+}

@@ -1,0 +1,15 @@
+.footer {
+  background-color: #2c3e50 !important;
+}
+
+.card {
+  background-color: #2c3e50 !important;
+}
+
+.lastFooter {
+  background-color: #162028 !important;
+}
+
+.card {
+  --bs-card-border-width: 0 !important;
+}
